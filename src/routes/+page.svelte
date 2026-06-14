@@ -775,7 +775,7 @@
                                 ]}
                             {:else}
                                 <LocalizedText
-                                    text="PenguinNews is not translated in your language. Sorry! :("
+                                    text="JetNews is not translated in your language. Sorry! :("
                                     key="home.sections.informational.notranslation"
                                     lang={currentLang}
                                 />
@@ -811,7 +811,7 @@
                     }}
                 >
                     <LocalizedText
-                        text="PenguinNews"
+                        text="JetNews"
                         key="home.sections.informational"
                         lang={currentLang}
                     />
